@@ -13,4 +13,39 @@
 
 + Áreas de atuação hoje...Breve descrição
 
+## Codigo de ética
 
+São deveres dos profissionais de Inform´atica:
++ Art. 1°
+: Contribuir para o bem-estar social, promovendo, sempre que poss´ıvel, a inclus˜ao
+de todos setores da sociedade.
++ Art. 2o
+: Exercer o trabalho profissional com responsabilidade, dedica¸c˜ao, honestidade e
+justi¸ca, buscando sempre a melhor solu¸c˜ao.
++ Art. 3o
+: Esfor¸car-se para adquirir continuamente competˆencia t´ecnica e profissional,
+mantendo-se sempre atualizado com os avan¸cos da profiss˜ao.
++ Art. 4o
+: Atuar dentro dos limites de sua competˆencia profissional e orientar-se por
+elevado esp´ırito p´ublico.
++ Art. 5o
+: Guardar sigilo profissional das informa¸c˜oes a que tiver acesso em decorrˆencia
+das atividades exercidas.
++ Art. 6o
+: Conduzir as atividades profissionais sem discrimina¸c˜ao, seja de ra¸ca, sexo,
+religi˜ao, nacionalidade, cor da pele, idade, estado civil ou qualquer outra condi¸c˜ao
+humana.
++ Art. 7o
+: Respeitar a legisla¸c˜ao vigente, o interesse social e os direitos de terceiros.
++ Art. 8o
+: Honrar compromissos, contratos, termos de responsabilidade, direitos de propriedade, copyrights e patentes.
++ Art. 9o
+: Pautar sua rela¸c˜ao com os colegas de profiss˜ao nos princ´ıpios de considera¸c˜ao,
+respeito, apre¸co, solidariedade e da harmonia da classe.
++ Art. 10: N˜ao praticar atos que possam comprometer a honra, a dignidade, privacidade
+de qualquer pessoa.
++ Art. 11: Nunca apropriar-se de trabalho intelectual, iniciativas ou solu¸c˜oes encontradas
+por outras pessoas.
++ Art. 12: Zelar pelo cumprimento deste c´odigo.
+
+https://www.sbc.org.br/documentos-da-sbc/send/144-institucional/1360-codigo-de-etica-da-sbc
